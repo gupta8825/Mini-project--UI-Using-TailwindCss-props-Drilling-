@@ -7,4 +7,5 @@ export default defineConfig({
   plugins: [react(),
     tailwindcss()
   ],
+  base: '/Mini-project--UI-Using-TailwindCss-props-Drilling-/',
 })
